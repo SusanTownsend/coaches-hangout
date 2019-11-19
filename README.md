@@ -1,1 +1,1 @@
-# coaches-hangout
+# Coahes Hangout notes
